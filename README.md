@@ -16,6 +16,7 @@ It is especially useful for:
 * 🏫 **Institutions or organizations** needing to upload a large number of candidate/student records
 
 By automating the contact addition process, it saves time and eliminates manual errors.
+89 contacats can be added in a minute.
 
 ---
 
